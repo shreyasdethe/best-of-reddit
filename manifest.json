@@ -14,13 +14,8 @@
           "type": "image/png"
         },
         {
-          "src": "icons/70.png",
-          "sizes": "70x70",
-          "type": "image/png"
-        },
-        {
-          "src": "icons/150.png",
-          "sizes": "150x150",
+          "src": "icons/128.png",
+          "sizes": "128x128",
           "type": "image/png"
         },
         {
@@ -34,8 +29,8 @@
           "type": "image/png"
         },
         {
-          "src": "icons/310.png",
-          "sizes": "310x310",
+          "src": "icons/270.png",
+          "sizes": "270x270",
           "type": "image/png"
         },
         {
