@@ -6,7 +6,7 @@
     "display": "standalone",
     "orientation": "portrait",
     "scope": "/",
-    "start_url": "/index.html",
+    "start_url": "/best-of-reddit/index.html",
     "icons": [
         {
           "src": "icons/32.png",
